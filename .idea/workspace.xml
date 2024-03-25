@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d45e2773-51f6-40a0-b4ee-0a7e184e81c1" name="Changes" comment="E4.11&#10;compass direction">
-      <change afterPath="$PROJECT_DIR$/src/LargestNumber.java" afterDir="false" />
+    <list default="true" id="d45e2773-51f6-40a0-b4ee-0a7e184e81c1" name="Changes" comment="E4.17&#10;Write a program that reads in three floating-point numbers and prints the largest of &#10;the three inputs. For example:&#10;Please enter three numbers: 4 9 2.5&#10;The largest number is 9.">
+      <change afterPath="$PROJECT_DIR$/src/VowelConsonantChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CompassDirection.java" beforeDir="false" />
     </list>
@@ -24,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E.17" />
+        <entry key="$PROJECT_DIR$" value="E-17" />
       </map>
     </option>
   </component>
@@ -41,6 +41,7 @@
   "keyToString": {
     "Application.CompassDirection.executor": "Run",
     "Application.LargestNumber.executor": "Run",
+    "Application.VowelConsonantChecker.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
@@ -52,7 +53,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.VowelConsonantChecker">
     <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LargestNumber" />
       <module name="AssignmentFour" />
@@ -60,8 +61,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VowelConsonantChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VowelConsonantChecker" />
+      <module name="AssignmentFour" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VowelConsonantChecker" />
         <item itemvalue="Application.LargestNumber" />
       </list>
     </recent_temporary>
@@ -75,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711292636754</updated>
       <workItem from="1711292637784" duration="2464000" />
-      <workItem from="1711337718395" duration="2241000" />
+      <workItem from="1711337718395" duration="3524000" />
     </task>
     <task id="LOCAL-00001" summary="E4.11&#10;compass direction">
       <option name="closed" value="true" />
@@ -93,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711338250039</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="E4.17&#10;Write a program that reads in three floating-point numbers and prints the largest of &#10;the three inputs. For example:&#10;Please enter three numbers: 4 9 2.5&#10;The largest number is 9.">
+      <option name="closed" value="true" />
+      <created>1711346064241</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711346064241</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="E4.11&#10;compass direction" />
-    <option name="LAST_COMMIT_MESSAGE" value="E4.11&#10;compass direction" />
+    <MESSAGE value="E4.17&#10;Write a program that reads in three floating-point numbers and prints the largest of &#10;the three inputs. For example:&#10;Please enter three numbers: 4 9 2.5&#10;The largest number is 9." />
+    <option name="LAST_COMMIT_MESSAGE" value="E4.17&#10;Write a program that reads in three floating-point numbers and prints the largest of &#10;the three inputs. For example:&#10;Please enter three numbers: 4 9 2.5&#10;The largest number is 9." />
   </component>
 </project>
